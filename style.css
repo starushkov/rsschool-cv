@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+section, div {
+    margin: 0;
+}
+
+.wrapper {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 10px 10px 5px gray;
+}
+
+
+.foto-item {
+    width: 250px;
+}
+
+/*   summary-skills  */
+.section-summary-skills {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 5px 5px 5px gray;
+}
+/*   /summary-skills   */
+
+/*   experience-code  */
+.section-experience-code {
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 10px 10px 5px gray;
+    border: 2px solid greenyellow;
+}
+/*   /experience-code   */
+
+/*   education-english  */
+.section-education-english {
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: 10px 10px 5px gray;
+}
+/*   /education-english   */
