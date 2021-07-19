@@ -11,3 +11,10 @@
 * CSS
 * JS
 * GIT
+## Experience ##
+[html academy](https://htmlacademy.ru/profile/id211646)
+## Education ##
+2007 - 2013
+Belarusian National Technical University - Energy Engineer
+## English ##
+A1
